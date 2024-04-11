@@ -1,0 +1,8 @@
+{
+  "name": "stellar-sdk-playground",
+  "license": "UNLICENSED",
+  "scripts": {},
+  "dependencies": {
+    "@stellar/stellar-sdk": "^11.3.0"
+  }
+}
